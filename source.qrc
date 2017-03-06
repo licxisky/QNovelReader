@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>du.png</file>
+    </qresource>
+    <qresource prefix="/languages">
+        <file>qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
